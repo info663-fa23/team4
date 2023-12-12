@@ -1,6 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
+genre,Genre,,,
 subject,,true,
 location,,true,
 identifier,,,true,Identifier
@@ -8,5 +9,4 @@ contributor 1 nationality,Author Nationality,,true,
 volume,Volume,,true,
 publication date,Publication Date,,true,
 issue,issue,,true,
-genre,Genre,,,
 contributor name,Translator,,true,
