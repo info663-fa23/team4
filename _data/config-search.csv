@@ -2,6 +2,12 @@ field,index,display
 title,true,true
 date,true,true
 creator,true,false
+contributor 1 nationality,true,false
 description,true,true
 subject,true,true
+contributor name,true,false
+genre,true,true
+volume,true,false,
+issue,true,false
+publication date,true,false
 location,true,false
