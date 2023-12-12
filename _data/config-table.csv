@@ -1,5 +1,25 @@
 field,display_name
 title,Title
-date,Date
-description,Description
+translated title,Translated Title
+creator,Author
+contributor 1 first name,Author Given Name
+contributor 1 last name,Author Surname
+contributor 1 nationality,Author Nationality
+nationality source,Nationality Source
+source link,Nationality Source Link
+contributor name,Translator
+contributor 2 first name,Translator Given Name
+contributor 2 last name,Translator Surname
 subject,Subjects
+genre,Genre
+DOI, DOI
+first page,First Page
+last page,Last Page
+issue archive URL,Issue Archive URL
+publication,Publication
+ISSN,ISSN
+volume,Volume
+issue,Issue
+publication date,Publication Date
+publisher,Publisher
+publisher location,Publisher Location
