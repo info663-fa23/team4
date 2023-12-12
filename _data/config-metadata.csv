@@ -7,7 +7,7 @@ contributor name,Translator,true,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 genre,Genre,true,,DCTERMS.type,genre
-DOI,DOI,,true,DCTERSM.identifier,identifier
+DOI,DOI,,true,DCTERMS.identifier,identifier
 first page, First Page,,,,pageStart
 last page, Last Page,,,,pageEnd
 publication,Publication,,,DCTERMS.title,isPartOf
