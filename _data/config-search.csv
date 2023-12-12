@@ -1,13 +1,13 @@
 field,index,display
 title,true,true
 date,true,true
-creator,true,false
-contributor 1 nationality,true,false
+creator,true,true
+contributor 1 nationality,true,true
 description,true,true
 subject,true,true
-contributor name,true,false
+contributor name,true,true
 genre,true,true
-volume,true,false,
-issue,true,false
-publication date,true,false
+volume,true,true
+issue,true,true
+publication date,true,true
 location,true,false
