@@ -20,4 +20,3 @@ issue archive URL,Issue URL,,true,DCTERMS.identifier,archivedAt
 publisher,Publisher,,,DCTERMS.publisher,publisher
 publisher location,Publisher Location,,,DCTERMS.location,locationCreated
 rightsstatement,,,,DCTERMS.rights,license
- 
