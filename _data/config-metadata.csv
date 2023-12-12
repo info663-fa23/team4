@@ -1,9 +1,9 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 translated title,Translated Title,,,DCTERMS.title,alternateName 
-creator,Author,,,DCTERMS.creator,creator
-contributor 1 nationality,Author Nationality,,,,nationality
-contributor name,Translator,,,,
+creator,Author,true,,DCTERMS.creator,creator
+contributor 1 nationality,Author Nationality,true,,,nationality
+contributor name,Translator,true,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 genre,Genre,true,,DCTERMS.type,genre
@@ -12,8 +12,8 @@ first page, First Page,,,,pageStart
 last page, Last Page,,,,pageEnd
 publication,Publication,,,DCTERMS.title,isPartOf
 ISSN,ISSN,,,DCTERMS.identifier,issn
-volume,Volume,,,DCTERMS.isPartOf,volumeNumber
-issue,Issue,,,DCTERMS.isPartOf,issueNumber
+volume,Volume,true,,DCTERMS.isPartOf,volumeNumber
+issue,Issue,true,,DCTERMS.isPartOf,issueNumber
 special issue information,Special Issue,,,DCTERMS.alternative,alternateName
 publication date,Publication Date,true,,,
 issue archive URL,Issue URL,,true,DCTERMS.identifier,archivedAt
