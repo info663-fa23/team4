@@ -1,12 +1,12 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
+creator,Author,,,
+contributor 1 nationality,Author Nationality,,,
+publication date,Publication Date,,,
 genre,Genre,,,
-subject,,true,
 location,,true,
 identifier,,,true,Identifier
-contributor 1 nationality,Author Nationality,,,
 volume,Volume,,true,
-publication date,Publication Date,,,
 issue,issue,,true,
 contributor name,Translator,,true,
+subject,,true,
