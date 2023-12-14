@@ -3,11 +3,11 @@ title,true,true
 date,true,true
 creator,true,true
 contributor 1 nationality,true,true
-description,true,true
-subject,true,true
+description,true,false
+subject,true,false
 contributor name,true,true
 genre,true,true
-volume,true,true
-issue,true,true
+volume,true,false
+issue,true,false
 publication date,true,true
 location,true,false
